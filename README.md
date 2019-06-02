@@ -1,2 +1,2 @@
 # calculator
-https://calculatorawesome.netlify.com/
+[A calculator](https://calculatorawesome.netlify.com)
